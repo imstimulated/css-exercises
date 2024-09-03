@@ -1,0 +1,17 @@
+.class1,
+.class2,
+.class3 {
+  background-color: #ff000050;
+}
+#id1{
+  font-size: 300%;
+  color: #0000ff;
+}
+.class2,
+#id2 {
+  font-size: 200%;
+}
+#id2 {
+  font-weight: bold;
+  background-color: #3cbe1cb4;
+}
